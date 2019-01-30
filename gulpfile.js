@@ -66,7 +66,7 @@ const TMP_DIR = 'out';
 const DEST_DIR = 'dist';
 
 // The locale that would be produced with no XTBs.
-const DEFAULT_LOCALE = 'en';
+const DEFAULT_LOCALE = 'fr';
 
 // The list of all locales that are supported.
 const ALL_LOCALES = ['ar-XB', 'ar', 'bg', 'ca', 'cs', 'da', 'de', 'el', 'en',
