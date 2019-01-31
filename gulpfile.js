@@ -66,14 +66,10 @@ const TMP_DIR = 'out';
 const DEST_DIR = 'dist';
 
 // The locale that would be produced with no XTBs.
-const DEFAULT_LOCALE = 'fr';
+const DEFAULT_LOCALE = 'en';
 
 // The list of all locales that are supported.
-const ALL_LOCALES = ['ar-XB', 'ar', 'bg', 'ca', 'cs', 'da', 'de', 'el', 'en',
-    'en-GB', 'en-XA', 'es-419', 'es', 'fa', 'fi', 'fil', 'fr', 'hi', 'hr', 'hu',
-    'id', 'it', 'iw', 'ja', 'ko', 'lt', 'lv', 'nl', 'no', 'pl', 'pt-PT',
-    'pt-BR', 'ro', 'ru', 'sk', 'sl', 'sr', 'sv', 'th', 'tr', 'uk', 'vi',
-    'zh-CN', 'zh-TW'];
+const ALL_LOCALES = ['en', 'fr'];
 
 // Default arguments to pass into Closure Compiler.
 const COMPILER_DEFAULT_ARGS = {
