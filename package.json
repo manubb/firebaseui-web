@@ -4,15 +4,17 @@
   "description": "Javascript library for customizable UI on top of Firebase SDK",
   "files": [
     "dist/firebaseui.js",
+    "dist/firebaseui__fr.js",
     "dist/firebaseui.css",
     "dist/npm.js",
+    "dist/npm__fr.js",
     "dist/index.d.ts",
     "dist/externs",
     "LICENSE",
     "README.md",
     "package.json"
   ],
-  "main": "./dist/npm.js",
+  "main": "./dist/npm__fr.js",
   "types": "./dist/index.d.ts",
   "style": "dist/firebaseui.css",
   "scripts": {
